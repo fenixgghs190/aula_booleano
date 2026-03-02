@@ -59,6 +59,8 @@ print()
 Exercício
 '''
 
+print('Exercício passado em aula:')
+
 a_f = False
 a_t = True
 b_f = False
